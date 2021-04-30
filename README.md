@@ -20,3 +20,5 @@ Para abrir o navegor do Google Chrome automaticamente, deverá definir o diretó
 ```python
 executable_path = "C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe"
 ```
+
+O arquivo do Chrome Driver pode ser encontrado [aqui](https://chromedriver.chromium.org/downloads "aqui") :tw-1f4ce:.
